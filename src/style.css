@@ -1,9 +1,9 @@
-.form-field {
+.formField {
   display: block;
   padding-bottom: 10px;
 }
 
-.form-field:last-child {
+.formField:last-child {
   padding: 0;
 }
 
